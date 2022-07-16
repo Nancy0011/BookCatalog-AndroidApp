@@ -1,4 +1,3 @@
 # BookCatalog-AndroidApp
 
-Binary File Book Catalog
-Database Book Catalog
+Binary File and Database for Book Catalog.
